@@ -1,1 +1,1 @@
-"# Simple Github Fetcher" 
+# Simple Github Fetcher
